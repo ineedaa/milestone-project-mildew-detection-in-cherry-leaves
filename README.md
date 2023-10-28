@@ -46,7 +46,6 @@ To save time in this process, the IT team suggested an ML system that detects in
 
 3 - That the app is responsive to fit appropriately on all devices:
 
-![Screenshot of the responsive website](/assets/images/responsive.jpg)
 
 
 ********************
@@ -97,9 +96,8 @@ differently than healthy Cherry leaves
 
 ### Agile Project Construct:
 
-* Github **Issues** and **Project** were used to develop a Kanban Agile setup as a method to keep the project headed in a successful direction. Below is a screenshot of the **issues** for this project and each issue had contains a number of associated checkboxes required to close the issue. [Mildew Detector Project](https://github.com/users/Erik1007/projects/5/views/1)
+* Github **Issues** and **Project** were used to develop a Kanban Agile setup as a method to keep the project headed in a successful direction. Below is a screenshot of the **issues** for this project and each issue had contains a number of associated checkboxes required to close the issue.
 
-![Mildew Detector Project Screeenshot](/assets/images/agile.jpg)
 
 ### CRISP-DM Project Method:
 
@@ -119,7 +117,6 @@ There are six main steps (that are both sequential and fluid) to the CRISP-DM me
 
 6. Deployment: Providing a means for the stakeholders to access and use the model and the results; meeting the business requirements. 
 
-![CRISP-DM overview](/assets/images/crisp-dm.jpg)
 
 ********************
 ## Jupyter Process
@@ -141,42 +138,31 @@ A sequential modal was used to create all three groups of this pipeline so that 
 
 1 - The **Project Summary page**, provides critical information concerning the backstory and source of the projects origins and subsequent information concerning the customer. Also on the summary page the business requirements chosen by the customer which extrapolate what a successful project will provide.
 
-![Screenshot of the summary page](/assets/images/summary_1.jpg)
-![Screenshot of the summary page](/assets/images/summary_2.jpg)
-![Screenshot of the summary page](/assets/images/summary_3.jpg)
 
 ********************
 2 - The **Hypothesis page** displays the 4 main objectives and outcome goals for the project, including measures of success.
 
-![Screenshot of the Hypthesis page](/assets/images/hypo_1.jpg)
+
 
 ********************
 3 -The **Cherry Leaf Visualizer page** which visually differentiates image models between healthy cherry leaves from those that contains powdery mildew.
 
 
-![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_1.jpg)
-![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_2.jpg)
-![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_3.jpg)
-![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_4.jpg)
-
 ********************
 4 - The **Detector page** is arguable the most important page in the dashboard, as it is the page that allows for the customer to interact with the ML app by uploading images and having the app predict if the leaf is infected or not. 
 
-![Screenshot of the Detector page](/assets/images/detector_1.jpg)
-![Screenshot of the Detector page](/assets/images/detector_2.jpg)
-![Screenshot of the Detector page](/assets/images/detector_3.jpg)
+
 
 ********************
 5 - The **Metrics** page displays the technical aspects of the model performance. The bar graph shows the breakdown of the amount of images, per label, contained in the train, validate and test groupings. The line graphs prove a normal learning curve through accuracy and loss plots and the last table shows the same information in a table graph. This ML model as normal and accurate to 99%.
 
-![Screenshot of the Metrics page](/assets/images/meteric_1.jpg)
-![Screenshot of the Metrics page](/assets/images/meteric_2.jpg)
+
 
 
 ********************
 6 - The **Conclusions** page provides explanations and outcomes of the hypothesis and business requirements for the project.
 
-![Screenshot of the Conclusions Page](/assets/images/conclusions_1.jpg)
+
 
 
 
@@ -255,7 +241,7 @@ The project was deployed to Heroku using the following steps.
 ## Credits 
 ********************
 
-- Assistance and support for this project came in two main groups: **content** and **data/images**. Below, you'll find siting’s for both groups and links to each source:
+- Assistance and support for this project came in two main groups: **content** and **data/images**. 
 
 ********************
 ### Content 
@@ -268,11 +254,8 @@ The project was deployed to Heroku using the following steps.
 
 * [Code Institute Streamlit lessons](https://learn.codeinstitute.net/courses/course-v1:code_institute+CI_DA_ML+2021_Q4/courseware/d186ae95191f48e9a2151559c7e6f85d/fc2f9892cfa44eee9cc8bf585c21df88/4?activate_block_id=block-v1%3Acode_institute%2BCI_DA_ML%2B2021_Q4%2Btype%40vertical%2Bblock%407636b337caeb4035bd7b5568404802f6) was used as guidance for the dashboard execution in this project.
 
-* [GyanShashwat1611/WalkthroughProject01](https://github.com/GyanShashwat1611/WalkthroughProject01) github repository was used for code reference and assistance for in the jupyter notebook set up, code and execution; as well as for the app pages design, set up and code
 
-* [valerieoni/mildew-detection](https://github.com/valerieoni/mildew-detection) github repository was used for readme guidance and some code reference in the jupyter notebooks and src files. 
-
-* [HaimanotA/Instant-Mildew-Detector](https://github.com/HaimanotA/Instant-Mildew-Detector) github repository was used for app pages code reference and readme guidance.
+* [Erik1007/mildew-detection-project](https://github.com/Erik1007/mildew-detection-project) github repository was used for readme guidance and some code reference in the jupyter notebooks and src files. 
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Powdery_mildew#:~:text=Powdery%20mildew%20is%20a%20fungal,its%20symptoms%20are%20quite%20distinctive.) was used as the resource pertaining to the powdery mildew fungal infection that is at the heart of this project.
 
@@ -290,7 +273,7 @@ The project was deployed to Heroku using the following steps.
 
 ********************
 ## Acknowledgements
-* I would like to thank for his time, help, expertise and especially for his motivation during the creation and execution of this project.
+* I would like to thank for codeinstitute student support for time, help, expertise and especially for motivation during the creation and execution of this project.
 ********************
 
 ********************
