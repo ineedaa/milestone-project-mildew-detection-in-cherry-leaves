@@ -96,7 +96,7 @@ differently than healthy Cherry leaves
 
 ### Agile Project Construct:
 
-* Github **Issues** and **Project** were used to develop a Kanban Agile setup as a method to keep the project headed in a successful direction. Below is a screenshot of the **issues** for this project and each issue had contains a number of associated checkboxes required to close the issue.
+* Github **Issues** and **Project** were used to develop a Kanban Agile setup as a method to keep the project headed in a successful direction. 
 
 
 ### CRISP-DM Project Method:
