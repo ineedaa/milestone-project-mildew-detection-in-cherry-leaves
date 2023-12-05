@@ -28,7 +28,7 @@ def page_ml_performance_body():
         f"or underfitting; it is a normal learning curve."
     )
 
-    col1, col2 = st.beta_columns(2)
+    col1, col2 = st.columns(2)
     with col1: 
         model_acc = plt.imread(f"outputs/{version}/model_training_acc.png")
         st.image(model_acc, caption='Model Training Accuracy')

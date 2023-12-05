@@ -138,6 +138,8 @@ A sequential modal was used to create all three groups of this pipeline so that 
 
 1 - The **Project Summary page**, provides critical information concerning the backstory and source of the projects origins and subsequent information concerning the customer. Also on the summary page the business requirements chosen by the customer which extrapolate what a successful project will provide.
 
+![Screenshot of the summary page](/assets/images/summary_1.jpg)
+
 
 ********************
 2 - The **Hypothesis page** displays the 4 main objectives and outcome goals for the project, including measures of success.
@@ -148,10 +150,17 @@ A sequential modal was used to create all three groups of this pipeline so that 
 3 -The **Cherry Leaf Visualizer page** which visually differentiates image models between healthy cherry leaves from those that contains powdery mildew.
 
 
+![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_1.jpg)
+![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_2.jpg)
+![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_3.jpg)
+![Screenshot of the Cherry Leaf Visualizer page](/assets/images/Visual_4.jpg)
 ********************
 4 - The **Detector page** is arguable the most important page in the dashboard, as it is the page that allows for the customer to interact with the ML app by uploading images and having the app predict if the leaf is infected or not. 
 
 
+![Screenshot of the Detector page](/assets/images/detector_1.jpg)
+![Screenshot of the Detector page](/assets/images/detector_2.jpg)
+![Screenshot of the Detector page](/assets/images/detector_3.jpg)
 
 ********************
 5 - The **Metrics** page displays the technical aspects of the model performance. The bar graph shows the breakdown of the amount of images, per label, contained in the train, validate and test groupings. The line graphs prove a normal learning curve through accuracy and loss plots and the last table shows the same information in a table graph. This ML model as normal and accurate to 99%.
@@ -164,7 +173,7 @@ A sequential modal was used to create all three groups of this pipeline so that 
 
 
 
-
+![Screenshot of the Conclusions Page](/assets/images/conclusions_1.jpg)
 
 ********************
 ## Unfixed Bugs

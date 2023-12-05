@@ -45,7 +45,7 @@ def upload_and_predict(images_buffer):
                 resized_img, version=version)
             plot_prediction_probabilities(prediction_prob, prediction_class)
 
-            report = report.append({"Name": image.name, 'Result': prediction_class},
+            report = report._append({"Name": image.name, 'Result': prediction_class},
                                 ignore_index=True)
         
         if not report.empty:
